@@ -8,3 +8,4 @@ Les fichiers Markdown de ce dépôt constituent un contexte de référence pour 
 
 - [Levures](levures.md) — inventaire des levures disponibles pour adapter les recettes aux produits que je peux acheter.
 - [Interpréter l’onglet Yeast de BeerSmith](beersmith-yeast.md) — taux d’ensemencement, cellules nécessaires, nombre de sachets et conséquences d’un surdosage.
+- [Équipement et planification des volumes](equipement-volumes.md) — cuve d’empâtage, chaudron, ratio eau/grain, batch sparging et volume en fermenteur.
