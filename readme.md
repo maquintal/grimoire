@@ -7,3 +7,4 @@ Les fichiers Markdown de ce dépôt constituent un contexte de référence pour 
 ## Références
 
 - [Levures](levures.md) — inventaire des levures disponibles pour adapter les recettes aux produits que je peux acheter.
+- [Interpréter l’onglet Yeast de BeerSmith](beersmith-yeast.md) — taux d’ensemencement, cellules nécessaires, nombre de sachets et conséquences d’un surdosage.
