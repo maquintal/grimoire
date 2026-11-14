@@ -10,6 +10,8 @@ Les calculs restent nécessaires pour vérifier les volumes, les rendements, l�
 
 L’efficacité de brassage de l’équipement n’est pas encore mesurée de façon fiable. Utiliser **72 % de brew efficiency** comme hypothèse provisoire quand la recette ne fournit pas de valeur. Si une capture ou les paramètres d’une recette indiquent une autre valeur, retenir cette valeur pour l’analyse de cette recette et signaler l’écart; ne pas la remplacer silencieusement par 72 % ni considérer une valeur isolée comme le rendement réel désormais établi. Voir [Équipement et planification des volumes](equipement-volumes.md) pour les données à consigner afin d’affiner cette estimation avec l’expérience.
 
+Pour comparer une recette à un style dans BeerSmith, noter l’organisme et l’édition du guide sélectionné. Par défaut, utiliser BJCP 2021 pour l’analyse de bière maison, sauf si une compétition ou l’objectif de la recette demande une autre référence. Les plages BeerSmith sont des repères et ne remplacent ni la description sensorielle ni l’intention d’une recette source; voir [Choisir un guide de style](styles-biere.md).
+
 ## Démarche d’analyse
 
 1. **Comprendre la bière recherchée.** Identifier le style, les caractéristiques importantes et les éléments qui définissent la recette : par exemple le caractère fumé, l’acidité, le corps, l’amertume ou le profil de fermentation.

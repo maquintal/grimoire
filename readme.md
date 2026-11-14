@@ -12,6 +12,8 @@ Les fichiers Markdown de ce dépôt constituent un contexte de référence pour 
 - [Interpréter les alertes Run Checks de BeerSmith](beersmith-run-checks.md) — interprétation des avertissements de levure, de pH d’empâtage et de couleur.
 - [Houblons et substitutions](houblons.md) — choisir un remplacement selon la fonction du houblon et ajuster l’amertume dans BeerSmith.
 - [Malts et substitutions](malts.md) — comparer les malts selon leur fonction, leur contribution sensorielle et leur comportement à l’empâtage.
+- [Choisir un guide de style](styles-biere.md) — choisir BJCP ou Brewers Association dans BeerSmith et interpréter les plages sans les traiter comme des règles absolues.
+- [Adaptation de la Roggenbier](roggenbier/optimisation-roggenbier.md) — remplacements du Magnum et de la M20, et contraintes de la recette face à l’équipement réel.
 - [Levures](levures.md) — inventaire des levures disponibles pour adapter les recettes aux produits que je peux acheter.
 - [Remplacer WLP677 dans une Lichtenhainer](lichtenhainer/remplacer-wlp677-lichtenhainer.md) — comparaison avec WildBrew Philly Sour, l’option acidifiante de la liste.
 - [Optimisation de la Lichtenhainer dans BeerSmith](lichtenhainer/optimisation-lichtenhainer.md) — lecture des écarts de style, pistes d’adaptation et points à confirmer.

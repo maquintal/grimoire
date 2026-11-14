@@ -28,15 +28,26 @@ Ces associations sont des pistes à comparer selon le rôle du houblon dans la r
 
 Avant de retenir une option, déterminer si l’ajout sert à l’amertume, à la saveur ou à l’arôme. Pour une addition précoce, recalculer l’IBU avec le pourcentage d’acides alpha du lot réel. Pour une addition tardive ou à cru, privilégier la similarité du profil sensoriel et de l’intensité, pas une égalité de grammes.
 
-## Exemple : Magnum à 80 minutes
+## Exemple : Magnum à 80 minutes dans la Roggenbier
 
-La recette fournie indique **15,00 g de Magnum à 11 % d’acides alpha**, ajoutés à **80 minutes**, pour **15,7 IBU** selon BeerSmith. L’ajout long indique que sa fonction principale est l’amertume; le profil aromatique spécifique du Magnum est moins déterminant qu’il ne le serait pour un ajout tardif.
+La [Roggenbier d’Univers Bière](roggenbier/optimisation-roggenbier.md) indique **15,00 g de Magnum à 11 % d’acides alpha**, ajoutés à **80 minutes**, pour **15,7 IBU** selon BeerSmith. L’ajout long indique que sa fonction principale est l’amertume; le profil aromatique spécifique du Magnum est moins déterminant qu’il ne le serait pour un ajout tardif.
+
+La recherche BeerSmith de la capture montre deux fiches locales :
+
+| Fiche BeerSmith | Origine affichée | Acides alpha |
+|---|---|---:|
+| Hallertau Magnum | Allemagne | 14 % |
+| Magnum | États-Unis | 12 % |
+
+Ce sont des options plus proches du Magnum de la recette que Brewers Gold. Toutefois, **Local** indique que la fiche existe dans BeerSmith; la case **Filter By Local Inventory** n’est pas cochée dans la capture. Cela ne confirme donc pas que ces houblons sont physiquement en stock. Si l’un des deux l’est, il constitue le premier choix à vérifier.
+
+À titre de première estimation basée sur la même quantité d’acides alpha, remplacer les **15 g à 11 %** par environ **13,8 g de Magnum à 12 %**, ou **11,8 g de Hallertau Magnum à 14 %**, à la même durée de 80 minutes. Ces poids ne garantissent pas exactement les 15,7 IBU : sélectionner la bonne fiche et ajuster dans BeerSmith selon la recette et l’étiquette du lot.
 
 La capture de cette recette contient déjà **30 g de Brewers Gold à 8,5 %**, ajoutés à **10 minutes** et estimés à **14,9 IBU**. C’est donc un candidat concret pour remplacer le Magnum si ce houblon est bien celui que l’utilisateur compte utiliser. Son profil est plus marqué que celui du Magnum; l’ajout long atténuera son apport aromatique, mais ne garantit pas une amertume identique.
 
-Pour remplacer uniquement l’ajout de Magnum, conserver les **30 g de Brewers Gold à 10 minutes** et ajouter une ligne distincte de Brewers Gold à **80 minutes**. Environ **19,4 g** est un point de départ pour remplacer les 15 g de Magnum sur la base de la même quantité d’acides alpha et des mêmes conditions de brassage. Recalculer et ajuster dans BeerSmith pour viser les **15,7 IBU** de l’ajout remplacé. Avec l’ajout de 10 minutes conservé, le total estimé de ces deux ajouts est environ **30,6 IBU** (14,9 + 15,7); vérifier l’IBU total de la recette et sa pertinence pour le style. La quantité proposée n’est ni une équivalence sensorielle ni une garantie d’IBU : elle dépend du format et des données réelles du houblon.
+Pour remplacer uniquement l’ajout de Magnum, conserver les **30 g de Brewers Gold à 10 minutes**. Si aucun des houblons Magnum ci-dessus n’est physiquement disponible, ajouter une ligne distincte de Brewers Gold à **80 minutes**. Environ **19,4 g** est alors un point de départ pour remplacer les 15 g de Magnum sur la base de la même quantité d’acides alpha. Recalculer et ajuster dans BeerSmith pour viser les **15,7 IBU** de l’ajout remplacé. Avec l’ajout de 10 minutes conservé, le total estimé des deux ajouts est environ **30,6 IBU** (14,9 + 15,7); vérifier l’IBU total de la recette et sa pertinence pour le style.
 
-D’autres houblons d’amertume à profil relativement neutre peuvent convenir s’ils sont disponibles, mais aucun autre houblon n’est actuellement confirmé dans l’inventaire de l’utilisateur. Ne pas présenter Warrior, Nugget, Columbus/CTZ ou une autre variété comme étant en stock sans confirmation.
+Les fiches de la base BeerSmith et les ingrédients visibles dans une recette ne constituent pas une confirmation de l’inventaire physique. Ne présenter aucune variété comme étant en stock sans vérification.
 
 ## Données à confirmer pour une substitution précise
 

@@ -14,9 +14,11 @@ Avant de proposer une adaptation, lire les fichiers pertinents du dépôt. Les c
 - `../../../equipement-volumes.md` — équipement connu, contraintes de volumes et mesures encore inconnues;
 - `../../../houblons.md` — à consulter pour remplacer un houblon ou recalculer une addition d’amertume;
 - `../../../malts.md` — à consulter pour remplacer un malt selon sa fonction, son caractère et son rôle dans l’empâtage;
+- `../../../styles-biere.md` — à consulter pour choisir et interpréter un guide de style dans BeerSmith;
 - `../../../levures.md` — inventaire des levures disponibles;
 - `../../../beersmith-yeast.md` — à consulter si la recette implique le calcul ou le choix de levure;
 - `../../../beersmith-run-checks.md` — à consulter pour interpréter les alertes générées par BeerSmith;
+- `../../../roggenbier/optimisation-roggenbier.md` — à consulter pour adapter la Roggenbier d’Univers Bière et ses substitutions de houblon et de levure;
 - `../../../lichtenhainer/remplacer-wlp677-lichtenhainer.md` — à consulter pour Lactobacillus, WLP677, Philly Sour ou une Lichtenhainer.
 - `../../../lichtenhainer/optimisation-lichtenhainer.md` — à consulter pour analyser la recette Lichtenhainer visible dans BeerSmith.
 
@@ -54,6 +56,7 @@ Consulter le README et d’autres documents du dépôt si la question touche un 
 - La mise à l’échelle uniforme ne préserve pas nécessairement les résultats : l’utilisation du houblon, le rendement, les pertes, la capacité d’empâtage et le comportement de la levure peuvent dépendre du volume, de la densité et du procédé. Pour les substitutions de houblon, distinguer les ajouts d’amertume des ajouts aromatiques et recalculer les IBU avec le houblon, le lot et le format réellement disponibles; consulter `houblons.md`.
 - Pour la **brew efficiency**, prendre 72 % comme hypothèse provisoire uniquement si la recette ou sa capture ne donne pas une autre valeur. Si une autre valeur est visible, l’utiliser pour analyser cette recette et signaler l’écart avec l’hypothèse provisoire; ne pas en déduire que le rendement réel du système est déjà établi. Mettre à jour l’estimation à partir des mesures consignées lors des brassins.
 - L’objectif est d’adapter la recette en préservant au mieux sa fonction et son intention, pas de convertir les ingrédients par une règle de trois. Pour remplacer un houblon ou un malt, comparer les rôles, les effets sensoriels et les contraintes de procédé à l’aide des tableaux de références; utiliser les calculs pour contrôler ou affiner une décision déjà fondée sur ces éléments, jamais comme unique raisonnement.
+- Pour comparer au style, noter le guide et son édition dans BeerSmith. Utiliser BJCP 2021 par défaut pour les bières maison, sauf si l’objectif ou les règles d’une compétition demandent autre chose. Expliquer les écarts aux plages et ne pas modifier la recette uniquement pour rendre les indicateurs verts; consulter `styles-biere.md`.
 - Vérifier les calculs de levure avec la bonne souche, le format réel du sachet, le taux d’ensemencement retenu et les recommandations du fabricant. Pour une fermentation acidifiante ou mixte, analyser séparément le rôle de la bactérie et celui de la levure.
 - Pour chaque alerte **Run Checks**, expliquer ce que le logiciel mesure et ce qu’il ne mesure pas. Ne pas ajouter automatiquement un starter, un acide ou un malt coloré pour faire disparaître une alerte; consulter `beersmith-run-checks.md` et vérifier la recette, l’équipement et les recommandations applicables.
 - Ne pas confondre un profil BeerSmith de fermentation en une ou deux étapes avec le nombre de souches ajoutées. Une attente de plusieurs jours dans un seul fermenteur ne constitue pas à elle seule une seconde étape; vérifier si une phase distincte de température ou de procédé est réellement prévue.
