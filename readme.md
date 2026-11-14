@@ -10,6 +10,8 @@ Les fichiers Markdown de ce dépôt constituent un contexte de référence pour 
 - [Méthode d’adaptation des recettes](adapter-recettes.md) — analyser le style, les ingrédients, BeerSmith et les contraintes de l’équipement avant de proposer des changements.
 - [Fermentation](fermentation.md) — procédé actuel en une étape, distinction avec une fermentation en deux étapes et critères avant embouteillage.
 - [Interpréter les alertes Run Checks de BeerSmith](beersmith-run-checks.md) — interprétation des avertissements de levure, de pH d’empâtage et de couleur.
+- [Houblons et substitutions](houblons.md) — choisir un remplacement selon la fonction du houblon et ajuster l’amertume dans BeerSmith.
+- [Malts et substitutions](malts.md) — comparer les malts selon leur fonction, leur contribution sensorielle et leur comportement à l’empâtage.
 - [Levures](levures.md) — inventaire des levures disponibles pour adapter les recettes aux produits que je peux acheter.
 - [Remplacer WLP677 dans une Lichtenhainer](lichtenhainer/remplacer-wlp677-lichtenhainer.md) — comparaison avec WildBrew Philly Sour, l’option acidifiante de la liste.
 - [Optimisation de la Lichtenhainer dans BeerSmith](lichtenhainer/optimisation-lichtenhainer.md) — lecture des écarts de style, pistes d’adaptation et points à confirmer.

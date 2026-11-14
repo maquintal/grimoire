@@ -16,8 +16,8 @@ L’efficacité de brassage de l’équipement n’est pas encore mesurée de fa
 2. **Localiser la contrainte.** Vérifier si le problème concerne BeerSmith, le volume visé, l’équipement, le procédé, un ingrédient indisponible ou plusieurs de ces éléments.
 3. **Séparer l’essentiel du flexible.** Évaluer quels ingrédients et étapes sont déterminants pour le style et lesquels peuvent varier sans perdre l’intention de la recette.
 4. **Analyser le rôle des ingrédients.** Une substitution doit être choisie pour sa fonction dans la recette et son effet attendu, pas seulement parce que son nom ou sa catégorie semble similaire. Expliquer les différences de goût, de fermentation et de comportement dans le procédé.
-5. **Intégrer les contraintes réelles.** Utiliser les capacités mesurées du chaudron et de la cuve d’empâtage, les méthodes de rinçage disponibles, les pertes observées et les ingrédients réellement accessibles. Voir [Équipement et planification des volumes](equipement-volumes.md) et [Levures](levures.md).
-6. **Comparer des options si nécessaire.** Quand plusieurs adaptations sont plausibles, présenter leurs avantages et compromis plutôt que de prétendre qu’il existe un remplacement exact.
+5. **Intégrer les contraintes réelles.** Utiliser les capacités mesurées du chaudron et de la cuve d’empâtage, les méthodes de rinçage disponibles, les pertes observées et les ingrédients réellement accessibles. Voir [Équipement et planification des volumes](equipement-volumes.md), [Levures](levures.md), [Houblons et substitutions](houblons.md) et [Malts et substitutions](malts.md).
+6. **Comparer des options si nécessaire.** Quand plusieurs adaptations sont plausibles, comparer leur fonction, leur contribution sensorielle et leurs effets sur le procédé. Présenter les compromis plutôt que de prétendre qu’il existe un remplacement exact; ne pas faire d’une règle de trois ou d’une égalité de poids la justification principale.
 7. **Vérifier dans BeerSmith.** Une fois les choix expliqués, recalculer la recette et contrôler les volumes à chaque étape, la densité, l’amertume, la couleur, le profil de fermentation et les limites des cuves. Relever l’efficacité de brassage de la recette; en son absence, utiliser l’hypothèse provisoire de 72 %.
 8. **Signaler les incertitudes.** Distinguer les données connues des estimations. Si une donnée déterminante manque — par exemple le volume utile d’une cuve ou le format d’un ingrédient — ne pas inventer une valeur ni présenter le résultat comme définitif.
 
@@ -32,7 +32,7 @@ Fournir autant que possible :
 - les caractéristiques du style ou du résultat que l’on veut absolument préserver;
 - les compromis acceptables, comme une acidité ou une intensité fumée différente.
 
-Les données déjà documentées dans ce dépôt — notamment l’[inventaire des levures](levures.md) et les [volumes de l’équipement](equipement-volumes.md) — doivent être réutilisées. Il ne faut pas demander à l’utilisateur de les répéter, sauf si elles doivent être confirmées ou mises à jour.
+Les données déjà documentées dans ce dépôt — notamment l’[inventaire des levures](levures.md), les [houblons et substitutions](houblons.md), les [malts et substitutions](malts.md) et les [volumes de l’équipement](equipement-volumes.md) — doivent être réutilisées. Les ingrédients déjà apparus dans une recette ne prouvent pas à eux seuls qu’ils sont en stock. Il ne faut pas demander à l’utilisateur de répéter les données connues, sauf si elles doivent être confirmées ou mises à jour.
 
 ## Format de réponse attendu
 
