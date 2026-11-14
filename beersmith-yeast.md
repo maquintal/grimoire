@@ -15,6 +15,12 @@ Cette page répond à la première question du dépôt : comment lire l’onglet
 - **Dry Yeast Hydration** : paramètres de réhydratation de levure sèche. Suivre en priorité les consignes du fabricant de la levure utilisée.
 - **Use Two Stage Yeast Starter** et **Use Stir Plate** : options liées au calcul d’un starter en une ou deux étapes et à l’utilisation d’un agitateur.
 
+## Onglet Yeast et profil de fermentation
+
+La liste des souches dans l’onglet **Yeast** et le profil **Fermentation** sont deux réglages distincts. Avoir deux levures dans la recette ne signifie pas que le profil doit être « Two Stage »; de même, un profil « Two Stage » ne signifie pas qu’il faut ajouter deux levures.
+
+Le choix **Single Stage** correspond au procédé décrit dans [Fermentation](fermentation.md) lorsqu’une seule phase est prévue. Une seconde phase de température ou de procédé peut justifier un profil à plusieurs étapes, même si la bière reste dans le même fermenteur. La durée totale, à elle seule, ne détermine pas le nombre d’étapes.
+
 ## Lecture de la capture d’écran
 
 La recette affiche un **Pitch Rate** de `0,75`, tandis que BeerSmith affiche une recommandation de `1,50` et une plage de `1,10–1,90`. Cela indique que le taux choisi est inférieur au repère affiché.

@@ -10,7 +10,7 @@ Les recettes trouvées en ligne proposent souvent des levures qui ne sont pas di
 - Levure à Bière Abbaye Ale
 - Levure à Bière LalBrew Kviek (Voss) 11 g
 - Levure à Bière Safale K-97
-- Levure à Bière Wildbrew Philly Sour 11 g
+- Levure à Bière Wildbrew Philly Sour 11 g — levure acidifiante; ce n’est pas une bactérie Lactobacillus.
 - Levure à Bière Verdant IPA 11 g
 - Levure à Bière New England East Coast 11 g
 - Levure à Bière Safale BE-134 Saison
