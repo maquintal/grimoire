@@ -16,6 +16,17 @@ Une substitution de malt doit préserver la fonction recherchée dans la recette
 | Malt acidulé (acidulated) | Ajustement d’acide alimentaire de brassage selon le profil d’eau et le pH visé | Ce n’est pas une substitution à dose égale. Déterminer le pH de l’empâtage et les données de l’eau avant de choisir un acide ou sa quantité. L’acidification en fermentation ne remplace pas le contrôle du pH d’empâtage. |
 | Malt torréfié ou chocolat | Autre malt torréfié selon l’intensité et le profil recherchés | Les notes peuvent aller du café au cacao ou au brûlé. Comparer l’intensité sensorielle, la couleur et l’astringence; un malt plus foncé n’est pas nécessairement un remplacement neutre. |
 
+## Malt fumé et malt tourbé
+
+« Fumé » décrit le caractère obtenu en exposant le malt à de la fumée; « tourbé » désigne généralement un malt fumé avec de la tourbe. Ce ne sont donc pas deux procédés mutuellement exclusifs : le malt tourbé est un type de malt fumé, et l’essence de fumée dépend du combustible et du malt utilisés.
+
+| Type | Caractère généralement recherché | À savoir |
+|---|---|---|
+| Malt fumé au bois (par exemple hêtre ou chêne) | Fumée évoquant le bois, le feu de camp ou le jambon, selon le produit | L’intensité varie beaucoup. Le malt fumé au hêtre est notamment associé aux Rauchbier, sans que tous les malts fumés aient le même goût. |
+| Malt fumé à la tourbe (malt tourbé) | Notes souvent plus terreuses, médicinales, cendrées ou iodées | Il peut dominer une bière à faible dosage. L’intensité dépend fortement du produit; vérifier la fiche fournisseur et goûter le malt. |
+
+Pour les distinguer ou les substituer, vérifier la méthode de fumage et le profil sensoriel du produit précis : les appellations commerciales ne garantissent pas une intensité uniforme, et un malt tourbé n’est pas un remplacement neutre d’un malt fumé au bois. Ajuster prudemment le dosage selon le caractère visé plutôt que de se fier à la couleur ou à une conversion gramme pour gramme. Le malt fumé au bois et le malt tourbé ne sont pas non plus des malts torréfiés.
+
 ## Cas déjà rencontrés dans les recettes
 
 Les recettes ou captures déjà examinées comprennent du malt Pilsner, du malt de blé pâle et fumé, du seigle malté, du caramel de seigle et du malt acidulé. Leur présence dans une recette ne confirme pas qu’ils sont tous disponibles dans l’inventaire réel de l’utilisateur.
