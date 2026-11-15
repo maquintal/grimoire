@@ -2,7 +2,7 @@
 
 Ce dépôt a pour objectif de m’aider à optimiser la fabrication de bière maison, notamment lorsque des recettes trouvées ailleurs ne correspondent pas à mon équipement ou aux ingrédients disponibles. Le brassage dépend de nombreux paramètres — style recherché, ingrédients, équipement, procédé et fermentation — qu’il faut analyser ensemble.
 
-Les fichiers Markdown de ce dépôt constituent un contexte de référence pour échanger avec des agents d’intelligence artificielle. Les calculs sont utiles pour vérifier une adaptation, mais ne remplacent pas l’analyse du rôle des ingrédients, du style visé, des contraintes du système et des compromis sur le résultat.
+Les fichiers Markdown de ce dépôt constituent un contexte de référence pour échanger avec des agents d’intelligence artificielle. Pour toute question d’adaptation, commencer par identifier le style et consulter [Choisir un guide de style](styles-biere.md); si le style ou sa variante n’est pas assez documenté, vérifier le guide officiel correspondant avant de recommander un changement. Ensuite, analyser l’ingrédient ou le procédé concerné et les références propres à la recette. Pour une variante (fumée, fruitée, etc.), identifier à la fois son style de base et son caractère spécial. Toute demande d’alternative doit recevoir une proposition pratique avec quantités et étapes précises, puis le contexte de style, les sources et les compromis. Les calculs sont utiles pour vérifier une adaptation, mais ne remplacent pas l’analyse du rôle des ingrédients, du style visé, des contraintes du système et des compromis sur le résultat.
 
 ## Références
 
@@ -14,6 +14,7 @@ Les fichiers Markdown de ce dépôt constituent un contexte de référence pour 
 - [Malts et substitutions](malts.md) — comparer les malts selon leur fonction, leur contribution sensorielle et leur comportement à l’empâtage.
 - [Choisir un guide de style](styles-biere.md) — choisir BJCP ou Brewers Association dans BeerSmith et interpréter les plages sans les traiter comme des règles absolues.
 - [Adaptation de la Roggenbier](roggenbier/optimisation-roggenbier.md) — remplacements du Magnum et de la M20, et contraintes de la recette face à l’équipement réel.
+- [Adaptation de la Kölsch fumée](kolsch-fumee/optimisation-kolsch-fumee.md) — pistes de remplacement du GR50 selon le profil fruité, agrumé et épicé recherché.
 - [Levures](levures.md) — inventaire des levures disponibles pour adapter les recettes aux produits que je peux acheter.
 - [Remplacer WLP677 dans une Lichtenhainer](lichtenhainer/remplacer-wlp677-lichtenhainer.md) — comparaison avec WildBrew Philly Sour, l’option acidifiante de la liste.
 - [Optimisation de la Lichtenhainer dans BeerSmith](lichtenhainer/optimisation-lichtenhainer.md) — lecture des écarts de style, pistes d’adaptation et points à confirmer.

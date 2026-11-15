@@ -10,6 +10,18 @@ Les guides de la **Brewers Association (BA)** sont une autre référence légiti
 
 Dans BeerSmith, relever le **nom de la source et son édition**, pas seulement le nom du style. Les profils peuvent différer par version, par catégorisation ou par organisme. Ne pas choisir un profil uniquement parce qu’il rend les indicateurs verts.
 
+## Étape obligatoire avant toute adaptation
+
+Avant de remplacer un ingrédient ou de modifier une recette :
+
+1. Identifier le style revendiqué par la recette et le guide/édition choisi dans BeerSmith.
+2. Consulter cette référence et les documents recette pertinents; si la description, la catégorie ou la variante n’y est pas suffisamment couverte, vérifier le guide officiel actuel (BJCP par défaut pour la bière maison, ou le guide demandé par le concours/objectif).
+3. Lire la description sensorielle et les ingrédients/procédés qui définissent ce style, pas seulement ses plages numériques. Noter le guide, l’édition et les sources vérifiés pour pouvoir les citer dans la réponse.
+4. Déterminer si la recette est une version spéciale d’un style de base (fumée, fruitée, acidifiée, etc.). Utiliser les catégories adaptées au guide et garder explicites à la fois le style de base et le caractère spécial.
+5. Évaluer toute substitution par rapport à ces objectifs et donner une proposition concrète chiffrée. Si le style est ambigu, expliquer l’hypothèse avant de recommander un changement.
+
+Par exemple, la recette Univers Bière appelée **Kölsch Fumée** se comprend comme une Kölsch avec du malt fumé. Si la fumée est la seule différence spéciale, le repère BJCP 2021 est **32A. Classic Style Smoked Beer**, avec Kölsch (5B) comme style de base, à préciser. La catégorie **32B. Specialty Smoked Beer** s’applique si des ingrédients ou procédés spéciaux supplémentaires transforment la bière en une création plus unique; le classement de la recette dépend donc de la façon dont le houblon expérimental GR50 est présenté et de l’objectif (brassage maison ou compétition). Dans les deux cas, il faut préserver à la fois le caractère de base Kölsch et l’équilibre voulu avec la fumée, plutôt que d’optimiser un houblon hors contexte.
+
 ## Règles d’interprétation
 
 - Utiliser un seul guide et une seule édition pour comparer une recette; ne pas mélanger les plages numériques d’un organisme avec la description d’un autre.
@@ -54,4 +66,6 @@ Le **Roggenbier** est encore un style distinct : le BJCP 2021 le décrit comme u
 - [BJCP 2015 — 27A. Historical Beer: Roggenbier](https://www.bjcp.org/style/2015/27/27A/historical-beer-roggenbier/)
 - [BJCP 2021 — 10B. Dunkles Weissbier](https://www.bjcp.org/style/2021/10/10B/dunkles-weissbier/)
 - [BJCP 2021 — 8A. Munich Dunkel](https://www.bjcp.org/style/2021/8/8A/munich-dunkel/)
+- [BJCP 2021 — 32A. Classic Style Smoked Beer](https://www.bjcp.org/style/2021/32/32A/classic-style-smoked-beer/)
+- [BJCP 2021 — 32B. Specialty Smoked Beer](https://www.bjcp.org/style/2021/32/32B/specialty-smoked-beer/)
 - [Brewers Association — Beer Style Guidelines](https://www.brewersassociation.org/edu/brewers-association-beer-style-guidelines/)

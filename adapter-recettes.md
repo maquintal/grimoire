@@ -12,9 +12,13 @@ L’efficacité de brassage de l’équipement n’est pas encore mesurée de fa
 
 Pour comparer une recette à un style dans BeerSmith, noter l’organisme et l’édition du guide sélectionné. Par défaut, utiliser BJCP 2021 pour l’analyse de bière maison, sauf si une compétition ou l’objectif de la recette demande une autre référence. Les plages BeerSmith sont des repères et ne remplacent ni la description sensorielle ni l’intention d’une recette source; voir [Choisir un guide de style](styles-biere.md).
 
+## Priorité préalable : identifier le style
+
+Avant de proposer une substitution ou un ajustement, consulter [Choisir un guide de style](styles-biere.md) et établir le style de la recette. Utiliser son nom, sa description, ses ingrédients et son procédé; relever la catégorie et l’édition pertinentes dans BeerSmith. Pour une variante (par exemple fumée ou fruitée), identifier aussi le style de base et le caractère spécial à préserver. Si le style ou sa catégorie n’est pas décrit suffisamment dans le dépôt, vérifier dynamiquement la source officielle appropriée (BJCP par défaut pour une bière maison, ou le guide exigé par l’objectif/concours) plutôt que de s’appuyer sur la seule mémoire ou le libellé BeerSmith. Citer l’édition et les sources utiles dans la réponse. Toute analyse d’ingrédient, y compris d’un houblon aromatique, doit ensuite être justifiée par sa contribution à ces objectifs. Si le classement est incertain, l’énoncer comme hypothèse au lieu d’ignorer le style.
+
 ## Démarche d’analyse
 
-1. **Comprendre la bière recherchée.** Identifier le style, les caractéristiques importantes et les éléments qui définissent la recette : par exemple le caractère fumé, l’acidité, le corps, l’amertume ou le profil de fermentation.
+1. **Confirmer le style et l’intention.** Appliquer la priorité préalable ci-dessus, puis identifier les caractéristiques importantes et les éléments qui définissent la recette : par exemple le caractère fumé, l’acidité, le corps, l’amertume ou le profil de fermentation.
 2. **Localiser la contrainte.** Vérifier si le problème concerne BeerSmith, le volume visé, l’équipement, le procédé, un ingrédient indisponible ou plusieurs de ces éléments.
 3. **Séparer l’essentiel du flexible.** Évaluer quels ingrédients et étapes sont déterminants pour le style et lesquels peuvent varier sans perdre l’intention de la recette.
 4. **Analyser le rôle des ingrédients.** Une substitution doit être choisie pour sa fonction dans la recette et son effet attendu, pas seulement parce que son nom ou sa catégorie semble similaire. Expliquer les différences de goût, de fermentation et de comportement dans le procédé.
@@ -38,11 +42,15 @@ Les données déjà documentées dans ce dépôt — notamment l’[inventaire d
 
 ## Format de réponse attendu
 
+Pour toute question demandant une alternative, donner d’abord une **recommandation concrète et utilisable**, pas seulement des explications ou une liste de candidats. Indiquer l’ingrédient proposé, la quantité, le moment d’ajout ou l’étape concernée, puis le contexte de style vérifié, les hypothèses (disponibilité, acides alpha, format, volume) et les compromis. Si une donnée manque, fournir quand même un point de départ chiffré fondé sur les données disponibles, clairement marqué comme provisoire; demander l’information manquante seulement si elle empêche réellement une proposition responsable. Ne jamais présenter une option hypothétique comme confirmée en stock.
+
+Pour les substitutions de houblons, conserver les moments d’ajout pertinents et donner les grammes par ajout. Utiliser les IBU comme vérification pour les ajouts d’amertume, mais aussi préserver l’objectif aromatique pour les ajouts tardifs. Si plusieurs houblons servent à reconstruire un profil, indiquer la quantité de chacun à chaque moment d’ajout. Préciser qu’un réglage dans BeerSmith peut être nécessaire avec les acides alpha du lot réel.
+
 Pour chaque adaptation proposée :
 
 - résumer le problème repéré et son origine probable;
 - expliquer le rôle des ingrédients ou étapes qui changent;
-- proposer une adaptation principale et, si utile, une autre option;
+- proposer d’abord une adaptation principale chiffrée et, si utile, une autre option chiffrée;
 - décrire les différences attendues par rapport à la recette d’origine;
 - montrer les contrôles BeerSmith et les calculs qui vérifient la proposition;
 - nommer les données manquantes, les hypothèses et le degré de confiance.

@@ -28,6 +28,12 @@ Ces associations sont des pistes à comparer selon le rôle du houblon dans la r
 
 Avant de retenir une option, déterminer si l’ajout sert à l’amertume, à la saveur ou à l’arôme. Pour une addition précoce, recalculer l’IBU avec le pourcentage d’acides alpha du lot réel. Pour une addition tardive ou à cru, privilégier la similarité du profil sensoriel et de l’intensité, pas une égalité de grammes.
 
+## Forme d’une recommandation de remplacement
+
+Une réponse à « par quoi remplacer ce houblon? » doit se conclure par une proposition directement utilisable : variété, **grammes par ajout** et moment d’ajout. Pour un mélange, préciser les grammes de chaque variété à chaque moment. Si l’inventaire physique ou le pourcentage d’acides alpha est inconnu, indiquer une proposition provisoire sous hypothèse explicite, puis préciser ce qu’il faut recalculer dans BeerSmith; ne pas se limiter à énumérer des candidats.
+
+Pour le cas du GR50, croisement de Cascade et Strisselspalt décrit comme fruité, citronné et légèrement épicé, voir [l’adaptation de la Kölsch fumée](kolsch-fumee/optimisation-kolsch-fumee.md). Cascade est une piste pour le fruité/agrumes; un houblon noble peut compléter le côté épicé. Le choix reste conditionnel à l’inventaire physique.
+
 ## Exemple : Magnum à 80 minutes dans la Roggenbier
 
 La [Roggenbier d’Univers Bière](roggenbier/optimisation-roggenbier.md) indique **15,00 g de Magnum à 11 % d’acides alpha**, ajoutés à **80 minutes**, pour **15,7 IBU** selon BeerSmith. L’ajout long indique que sa fonction principale est l’amertume; le profil aromatique spécifique du Magnum est moins déterminant qu’il ne le serait pour un ajout tardif.
