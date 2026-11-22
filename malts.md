@@ -2,6 +2,85 @@
 
 Une substitution de malt doit préserver la fonction recherchée dans la recette : sucres fermentescibles, enzymes, couleur, corps, mousse ou caractère aromatique. Deux malts de couleur semblable ne donnent pas nécessairement le même goût ou le même comportement à l’empâtage. Les suggestions ci-dessous sont des pistes, pas des équivalences exactes ni une confirmation de disponibilité.
 
+## Inventaire du magasin
+
+Les articles ci-dessous sont disponibles en magasin, avec les formats et prix indiqués. Cette liste confirme la disponibilité à l’achat, pas le stock personnel ni les caractéristiques exactes du lot. Vérifier les données fournisseur dans BeerSmith avant de recalculer une recette.
+
+### Malts de base
+
+| Malt | Format | Prix |
+|---|---:|---:|
+| Pilsner Allemand | 1,5 kg | 9,95 $ |
+| 2 Rangs | 1,5 kg | 6,50 $ |
+| 6 Rangs | 1,5 kg | 6,50 $ |
+| Gambrinus Pale Ale | 1,5 kg | 6,50 $ |
+| Golden Promise | 1,5 kg | 8,25 $ |
+| Maris Otter | 1,5 kg | 8,25 $ |
+| Blé Canadien | 1,5 kg | 8,75 $ |
+| Blé Pale Weyermann | 1 kg | 6,95 $ |
+| Seigle | 1 kg | 6,35 $ |
+| Munich I | 1 kg | 7,25 $ |
+| Munich II | 1 kg | 6,25 $ |
+| Vienna | 1 kg | 7,50 $ |
+
+### Malts spéciaux, toastés et aromatiques
+
+| Malt | Format | Prix |
+|---|---:|---:|
+| Biscuit Dingemans | 1 kg | 5,75 $ |
+| Melanoidin | 1 kg | 7,95 $ |
+| Honey Malt Gambrinus | 1 kg | 5,95 $ |
+| Special Roast | 1 kg | 7,95 $ |
+| Blé Toasté | 1 kg | 4,95 $ |
+| Ambré Anglais | 1 kg | 8,90 $ |
+| Carahell 10 L | 1 kg | 7,50 $ |
+| Aromatique Belge | 1 kg | 6,25 $ |
+| Victory | 1 kg | 6,25 $ |
+| Brown | 1 kg | 7,95 $ |
+
+### Malts caramel, biscuités et mi-foncés
+
+| Malt | Format | Prix |
+|---|---:|---:|
+| CaraAmber | 500 g | 5,95 $ |
+| Carafoam (Carapils) | 1 kg | 7,25 $ |
+| Caramunich I | 1 kg | 6,25 $ |
+| Caramunich II | 1 kg | 7,55 $ |
+| Carared | 1 kg | 6,25 $ |
+| Briess Caramel/Crystal 20 | 1 kg | 7,50 $ |
+| Crystal 70–80 L | 1 kg | 7,95 $ |
+| Crystal 135–165 L | 1 kg | 6,95 $ |
+| Special B Belge | 1 kg | 6,95 $ |
+| Carastan 30–37 L | 1 kg | 6,95 $ |
+| Caraaroma | 1 kg | 8,25 $ |
+| Carafa I | 1 kg | 6,50 $ |
+
+### Malts torréfiés, fumés et acides
+
+| Malt | Format | Prix |
+|---|---:|---:|
+| Fûmé Cherrywood | 1 kg | 7,95 $ |
+| Fûmé Weyermann | 1 kg | 6,95 $ |
+| Peated Smoked Malt | 500 g | 8,55 $ |
+| Midnight Wheat | 500 g | 3,95 $ |
+| Malt Noir | 500 g | 3,50 $ |
+| Chocolat | 500 g | 6,50 $ |
+| Orge Rôtie | 500 g | 3,95 $ |
+| Malt Acide Weyermann | 500 g | 3,75 $ |
+
+### Grains crus et flocons
+
+| Ingrédient | Format | Prix |
+|---|---:|---:|
+| Flocons de seigle | 500 g | 3,50 $ |
+| Malt Avoine | 1 kg | 11,95 $ |
+| Flocons de blé Briess | 500 g | 3,95 $ |
+| Flocons d'orge | 500 g | 3,95 $ |
+| Flocons de riz | 500 g | 4,95 $ |
+| Flocons d'avoine | 500 g | 3,95 $ |
+| Flocons de maïs | 500 g | 4,50 $ |
+| Blé cru non malté | 1 kg | 7,95 $ |
+
 ## Tableau de substitutions par fonction
 
 | Malt d’origine ou fonction | Candidats à examiner | Compromis et vérifications |
@@ -29,7 +108,7 @@ Pour les distinguer ou les substituer, vérifier la méthode de fumage et le pro
 
 ## Cas déjà rencontrés dans les recettes
 
-Les recettes ou captures déjà examinées comprennent du malt Pilsner, du malt de blé pâle et fumé, du seigle malté, du caramel de seigle et du malt acidulé. Leur présence dans une recette ne confirme pas qu’ils sont tous disponibles dans l’inventaire réel de l’utilisateur.
+Les recettes ou captures déjà examinées comprennent du malt Pilsner, du malt de blé pâle et fumé, du seigle malté, du caramel de seigle et du malt acidulé. Plusieurs substitutions sont maintenant disponibles en magasin : Pilsner allemand, blé pâle Weyermann, seigle malté ou en flocons, Fûmé Weyermann/Cherrywood, Malt Acide Weyermann et plusieurs malts caramel. Cela confirme leur disponibilité à l’achat, pas qu’ils sont déjà possédés ni que leur fiche correspond exactement au lot.
 
 Pour une Lichtenhainer, le blé fumé contribue directement au caractère du style. Le remplacer par du malt de blé non fumé ferait perdre le fumé; le remplacer par de l’orge fumée changerait la céréale. Le malt acidulé agit sur le pH d’empâtage et ne remplace pas une culture bactérienne ni une levure acidifiante.
 
@@ -39,6 +118,6 @@ Pour une Lichtenhainer, le blé fumé contribue directement au caractère du sty
 2. Vérifier si le remplacement conserve le pouvoir enzymatique nécessaire, la couleur, le corps et le caractère recherché.
 3. Tenir compte de son effet sur la filtration, l’empâtage et le pH, notamment pour le seigle et les malts acidulés.
 4. Recalculer dans BeerSmith la densité, la couleur et les paramètres concernés, puis lire les différences comme des estimations plutôt que des garanties.
-5. Si les ingrédients disponibles ne sont pas connus, présenter des options conditionnelles et demander l’inventaire pertinent avant de prétendre choisir le meilleur remplacement.
+5. Pour les substitutions, distinguer les produits disponibles en magasin des produits déjà possédés; vérifier le poids restant, la fiche BeerSmith et les caractéristiques du lot avant d’acheter ou de remplacer un ingrédient.
 
 Ne pas appliquer automatiquement une règle de trois ou une substitution gramme pour gramme. Lorsqu’un ingrédient joue plusieurs rôles, il peut être préférable de combiner deux ingrédients ou d’accepter explicitement un compromis sensoriel.

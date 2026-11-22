@@ -10,6 +10,7 @@ Compréhension actuelle du montage : le chaudron de 32 qt sert à l’ébullitio
 |---|---:|---|
 | Chaudron utilisé pour l’ébullition | 32 qt US (≈ 30,3 L); valeur donnée par l’utilisateur comme maximum sans risque | Confirmer si 32 qt est la capacité jusqu’au bord ou un volume de travail sécuritaire vérifié à l’ébullition |
 | Cuve d’empâtage / chaudron | Glacière Igloo de 19 L | Mesurer le volume réellement utilisable avec la mouture, jusqu’au niveau sécuritaire de remplissage |
+| Volume cible | 23 L dans la tourie | Définir les volumes BeerSmith correspondants aux pertes du procédé |
 
 Le chaudron a été acheté chez Mout International, au Canada; l’utilisateur confirme qu’il s’agit de **32 quarts US**, soit environ **30,3 L**, et donne cette valeur comme maximum sans risque. Pour éviter tout débordement, retenir une distinction stricte entre cette limite déclarée et la capacité physique jusqu’au bord. Si 32 qt correspond à la capacité nominale jusqu’au bord plutôt qu’à un niveau de remplissage validé pendant une ébullition, le volume de travail sécuritaire est inférieur et reste à établir. À titre de comparaison, 32 quarts impériaux correspondraient à environ 36,4 L.
 
@@ -67,11 +68,11 @@ Le profil d’équipement BeerSmith devrait refléter les mesures de ce système
 
 Les noms exacts des champs peuvent varier selon la version et le profil BeerSmith. Après chaque brassin, noter les volumes mesurés aux étapes importantes et mettre à jour le profil.
 
-## Efficacité de brassage provisoire
+## Efficacité de brassage
 
-L’utilisateur ne maîtrise pas encore complètement les performances de son équipement et n’a pas établi son efficacité réelle. En attendant de recueillir assez de données, utiliser **72 % de brew efficiency** comme hypothèse par défaut lorsqu’une recette ne fournit pas d’autre valeur. Ce pourcentage est provisoire : il ne s’agit ni d’une mesure confirmée ni d’une garantie de rendement.
+Si l’efficacité n’est pas indiquée pour la recette ou sa capture, utiliser **72 % de brew efficiency** comme hypothèse provisoire. Si une efficacité est fournie, l’utiliser directement pour cette recette, même si elle a été évaluée lors d’un brassin précédent.
 
-Si une capture d’écran ou les paramètres BeerSmith de la recette indiquent une autre efficacité, utiliser cette valeur pour analyser la recette concernée et signaler qu’elle diffère de l’hypothèse provisoire de 72 %. Ne pas la remplacer silencieusement par 72 % et ne pas traiter une valeur affichée dans une seule recette comme le rendement réel permanent de l’équipement.
+Une valeur liée à une recette ou à une capture ne devient pas automatiquement le rendement permanent de tout le système. Toutefois, pour l’analyse, elle doit primer sur 72 % puisqu’elle correspond au contexte fourni. Certaines recettes peuvent donc utiliser des rendements différents, et l’écart avec 72 % doit être signalé.
 
 Pour affiner le rendement avec l’expérience, conserver après chaque brassin les paramètres BeerSmith utilisés et les mesures réelles pertinentes, notamment la masse et la composition des grains, le volume de moût au point de mesure utilisé par BeerSmith et sa densité initiale. Comparer plusieurs brassins réalisés avec un procédé et des mesures cohérents avant de mettre à jour le profil d’équipement.
 
@@ -81,6 +82,6 @@ Pour affiner le rendement avec l’expérience, conserver après chaque brassin 
 - [ ] Mesurer, valider et marquer un niveau maximal de travail qui conserve une marge libre suffisante pour l’ébullition; ne pas utiliser la capacité nominale comme cible.
 - [ ] Mesurer le volume de maische maximal que la glacière de 19 L peut contenir tout en permettant de mélanger sans débordement.
 - [ ] Mesurer l’évaporation, les pertes de transfert et de trub, le volume mort et l’absorption du grain.
-- [ ] Consigner les volumes, densités, moutures et paramètres BeerSmith de plusieurs brassins afin d’estimer et de mettre à jour l’efficacité réelle; conserver 72 % comme hypothèse tant qu’elle n’est pas mieux établie.
-- [ ] Définir précisément le volume cible en fermenteur.
+- [ ] Consigner les volumes, densités, moutures et paramètres BeerSmith de plusieurs brassins afin d’affiner la compréhension de l’efficacité réelle. Utiliser 72 % seulement lorsqu’aucune valeur n’est disponible pour la recette.
+- [x] Le volume cible en fermenteur est fixé à **23 L** dans la tourie.
 - [ ] Calculer le ratio d’empâtage et les volumes de batch sparge pour une recette donnée, en vérifiant la capacité de chaque cuve à chaque étape.

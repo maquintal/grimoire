@@ -1,5 +1,33 @@
 # Houblons et substitutions
 
+## Inventaire du magasin
+
+Les variétés ci-dessous sont actuellement disponibles en magasin, en sachets de **28 g**. Cette liste confirme la disponibilité à l'achat, pas le stock personnel ni les acides alpha du lot. Vérifier l'étiquette ou la fiche BeerSmith avant d'ajuster une quantité.
+
+| Houblon | Prix | Houblon | Prix |
+|---|---:|---|---:|
+| Idaho 7 | 4,50 $ | Sabro | 5,25 $ |
+| Vic Secret | 4,95 $ | Azacca | 4,25 $ |
+| Lemondrop | 4,25 $ | Mandarina Bavaria | 4,50 $ |
+| El Dorado | 4,75 $ | Mosaic | 3,75 $ |
+| Falconer's Flight | 3,75 $ | Crystal | 3,95 $ |
+| Columbus | 3,75 $ | Warrior | 3,95 $ |
+| Centennial | 3,75 $ | Perle | 3,75 $ |
+| Nugget | 3,50 $ | Challenger | 3,75 $ |
+| Galena | 3,25 $ | Amarillo | 4,25 $ |
+| Chinook | 3,75 $ | Willamette | 3,50 $ |
+| Tettnang | 3,45 $ | Magnum | 3,25 $ |
+| Northern Brewer | 3,25 $ | Cluster | 2,95 $ |
+| Hallertau | 3,95 $ | Fuggle | 3,45 $ |
+| Spalt Allemand | 3,95 $ | Zythos | 3,25 $ |
+| Summit | 3,75 $ | German Hull Melon | 4,25 $ |
+| Target | 3,25 $ | Sterling | 3,25 $ |
+| Simcoe | 3,95 $ | Cascade | 3,50 $ |
+| Goldings UK Kent | 3,95 $ | Goldings Styrian | 4,50 $ |
+| Mt. Hood | 3,25 $ | Saaz | 3,75 $ |
+| Citra | 4,95 $ | Sorachi | 4,95 $ |
+| Galaxy | 5,25 $ | Nelson Sauvin | 4,25 $ |
+
 ## Remplacer un houblon d’amertume
 
 Pour remplacer un houblon, identifier d’abord sa fonction dans la recette. Un houblon ajouté longtemps avant la fin de l’ébullition sert principalement à apporter de l’amertume; un ajout tardif ou à cru contribue davantage à l’arôme. Une substitution ne doit donc pas se baser uniquement sur le nom du houblon ou sur une égalité de poids.
@@ -15,7 +43,7 @@ La quantité en grammes n’est pas interchangeable d’une variété ou d’un 
 
 ## Tableau de substitutions par fonction
 
-Ces associations sont des pistes à comparer selon le rôle du houblon dans la recette. Elles ne signifient pas que ces variétés sont en stock ni qu’elles sont interchangeables gramme pour gramme.
+Ces associations sont des pistes à comparer selon le rôle du houblon dans la recette. Elles sont maintenant filtrables parmi les variétés disponibles en magasin, mais ne sont pas nécessairement déjà achetées ni interchangeables gramme pour gramme.
 
 | Profil ou houblon recherché | Candidats à examiner | Compromis à prévoir |
 |---|---|---|
@@ -45,7 +73,7 @@ La recherche BeerSmith de la capture montre deux fiches locales :
 | Hallertau Magnum | Allemagne | 14 % |
 | Magnum | États-Unis | 12 % |
 
-Ce sont des options plus proches du Magnum de la recette que Brewers Gold. Toutefois, **Local** indique que la fiche existe dans BeerSmith; la case **Filter By Local Inventory** n’est pas cochée dans la capture. Cela ne confirme donc pas que ces houblons sont physiquement en stock. Si l’un des deux l’est, il constitue le premier choix à vérifier.
+Le Magnum figure aussi dans l’inventaire du magasin. C’est donc une option disponible à l’achat pour remplacer Magnum, même si la capture BeerSmith ne confirme pas qu’un sachet est déjà possédé. **Local** indique que la fiche existe dans BeerSmith; sa présence dans la recherche ne confirme pas non plus le pourcentage d’acides alpha du sachet acheté.
 
 À titre de première estimation basée sur la même quantité d’acides alpha, remplacer les **15 g à 11 %** par environ **13,8 g de Magnum à 12 %**, ou **11,8 g de Hallertau Magnum à 14 %**, à la même durée de 80 minutes. Ces poids ne garantissent pas exactement les 15,7 IBU : sélectionner la bonne fiche et ajuster dans BeerSmith selon la recette et l’étiquette du lot.
 
@@ -53,11 +81,11 @@ La capture de cette recette contient déjà **30 g de Brewers Gold à 8,5 %**, a
 
 Pour remplacer uniquement l’ajout de Magnum, conserver les **30 g de Brewers Gold à 10 minutes**. Si aucun des houblons Magnum ci-dessus n’est physiquement disponible, ajouter une ligne distincte de Brewers Gold à **80 minutes**. Environ **19,4 g** est alors un point de départ pour remplacer les 15 g de Magnum sur la base de la même quantité d’acides alpha. Recalculer et ajuster dans BeerSmith pour viser les **15,7 IBU** de l’ajout remplacé. Avec l’ajout de 10 minutes conservé, le total estimé des deux ajouts est environ **30,6 IBU** (14,9 + 15,7); vérifier l’IBU total de la recette et sa pertinence pour le style.
 
-Les fiches de la base BeerSmith et les ingrédients visibles dans une recette ne constituent pas une confirmation de l’inventaire physique. Ne présenter aucune variété comme étant en stock sans vérification.
+Les fiches de la base BeerSmith, les ingrédients visibles dans une recette et l’inventaire du magasin ne constituent pas à eux seuls la confirmation qu’un sachet est possédé. Pour une substitution précise, vérifier l’achat, le poids restant, le format et les acides alpha du lot.
 
 ## Données à confirmer pour une substitution précise
 
-- le ou les houblons réellement disponibles;
+- le ou les houblons disponibles en magasin ou déjà possédés;
 - le pourcentage d’acides alpha indiqué sur le sachet;
 - le format (granulés, cônes ou autre);
 - le volume, la densité initiale et l’équipement utilisés pour la recette;
