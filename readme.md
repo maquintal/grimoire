@@ -13,6 +13,7 @@ Les fichiers Markdown de ce dépôt constituent un contexte de référence pour 
 - [Houblons et substitutions](houblons.md) — choisir un remplacement selon la fonction du houblon et ajuster l’amertume dans BeerSmith.
 - [Malts et substitutions](malts.md) — comparer les malts selon leur fonction, leur contribution sensorielle et leur comportement à l’empâtage.
 - [Choisir un guide de style](styles-biere.md) — choisir BJCP ou Brewers Association dans BeerSmith et interpréter les plages sans les traiter comme des règles absolues.
+- [Échelle des bières maltées](styles-bieres-maltees.md) — situer les styles maltés allemands et internationaux par couleur et profil.
 - [Adaptation de la Roggenbier](roggenbier/optimisation-roggenbier.md) — remplacements du Magnum et de la M20, et contraintes de la recette face à l’équipement réel.
 - [Adaptation de la Kölsch fumée](kolsch-fumee/optimisation-kolsch-fumee.md) — pistes de remplacement du GR50 selon le profil fruité, agrumé et épicé recherché.
 - [Levures](levures.md) — inventaire des levures disponibles pour adapter les recettes aux produits que je peux acheter.
